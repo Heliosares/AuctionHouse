@@ -1,0 +1,10 @@
+/AuctionItemEvent.class
+/DropUnclaimedEvent.class
+/ItemAction.class
+/ListItemEvent.class
+/ListingCleanupEvent.class
+/MenuClickEvent.class
+/MenuCloseEvent.class
+/PrePurchaseItemEvent.class
+/PurchaseItemEvent.class
+/ServerTickEvent.class
